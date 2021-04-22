@@ -1,3 +1,3 @@
-# nate-said-I-could-change-this-later
+# smtp-to-html
 
 https://trello.com/missionarymailcollection
